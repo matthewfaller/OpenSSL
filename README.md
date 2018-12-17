@@ -9,6 +9,14 @@ Import as:
 import OpenSSL
 ```
 
+## Links from Apple on Bridging C Code
+
+[Macros](https://developer.apple.com/documentation/swift/imported_c_and_objective-c_apis/using_imported_c_macros_in_swift)
+
+[Structs & Union](https://developer.apple.com/documentation/swift/imported_c_and_objective-c_apis/using_imported_c_structs_and_unions_in_swift)
+
+[Functions](https://developer.apple.com/documentation/swift/imported_c_and_objective-c_apis/using_imported_c_functions_in_swift)
+
 ## Supported Swift version
 
 This package supports Swift 3 and higher.
